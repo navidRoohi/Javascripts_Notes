@@ -1,4 +1,3 @@
-
 // atom-ternjs   plugin adds auto method suggestion. Make sure active the Node from the
 // packages > atom-ternjs > Node too... enjoy...
 
