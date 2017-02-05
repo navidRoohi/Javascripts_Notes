@@ -54,7 +54,7 @@ console.log(myArray);
 myArray.push("new");
 
 var myIndex = myArray.indexOf("navid");
-myArray.splice(myIndex,1); // remove and lement from array. Here: first elment  splice(p1, p2) - > p1 => index   \\  p2 => 1 means true
+myArray.splice(myIndex,1); // remove an elment from array. Here: first elment  splice(p1, p2) - > p1 => index   \\  p2 => 1 means true
 
 for (var i=0 ; i < myArray.length ; i++){
   console.log(myArray[i]);
